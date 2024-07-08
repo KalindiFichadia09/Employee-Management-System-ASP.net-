@@ -1,0 +1,16 @@
+.btn-set{
+    display: flex;
+    justify-content: right;
+}
+.leave-approved {
+    color: #28a745;
+    text-align: center;
+}
+.leave-decline {
+    color: #dc3545;
+    text-align:center;
+}
+.leave-pending {
+    color: #6c757d;
+    text-align:center;
+}
